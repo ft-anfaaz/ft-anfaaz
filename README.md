@@ -112,7 +112,7 @@ public class Anfaz {
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ft-anfaaz&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ft-anfaaz&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+<img src="https://github-profile-trophy-psi-three.vercel.app/?username=ft-anfaaz&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 
 </div>
 
