@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anfaz%20Edakkavil%20Aboobakar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20AI%20%26%20Data&descAlignY=62&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=4%2B%20years%20building%20enterprise%20insurance%20systems;MSc%20AI%20%40%20Munster%20Technological%20University;Multimodal%20Deep%20Learning%20%7C%20NLP%20%7C%20Explainable%20AI;Turning%20messy%20data%20into%20production-ready%20systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=4%2B%20years%20in%20enterprise%20insurance%20systems;MSc%20AI%20%40%20MTU%2C%20Cork;Multimodal%20DL%20%7C%20NLP%20%7C%20XAI;Data%20to%20production%2C%20end%20to%20end" alt="Typing SVG" />
 
 <a href="https://www.linkedin.com/in/anfaz-e"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:anfaze98@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
@@ -133,6 +133,15 @@ public class Anfaz {
 
 </details>
 
+<details>
+<summary><b>Oak Fire Pizza</b> — Team Member (Part-time) | Sep 2025 – Present | Cork, Ireland</summary>
+<br/>
+
+> `Teamwork` `Time Management` `Customer Service`
+
+- Built strong teamwork, communication, and multitasking skills working effectively under pressure in a fast-paced environment while completing the MSc AI program.
+
+</details>
 
 <br/>
 
@@ -142,9 +151,9 @@ public class Anfaz {
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **[Multimodal Depression & Positive Affect Detection](https://github.com/ft-anfaaz/multimodal-depression-pa-detection)** | PyTorch, Whisper, Transformers, Captum, scikit-learn | Fused XLM-RoBERTa text, audio-visual, and MentalRoBERTa affect encoders via a neural classifier — **AUROC 0.9867, F1 0.9508**, with Integrated Gradients for token-level explainability |
-| **[Stock Market Analysis & Price Prediction](https://github.com/ft-anfaaz/stockalyst)** | Python, Django, Machine Learning, Web Scraping | Django app scraping live market data, rendering interactive historical trend visualisations, and generating ML-based price predictions |
-| **[Parking Management System](https://github.com/ft-anfaaz/parking-management-webapp)** | Java, Spring Boot, MySQL | Full-stack MVC system for space allocation, customer/vehicle records, bookings, and payments, with auth, availability tracking, and reporting |
+| **[Multimodal Depression & Positive Affect Detection](https://github.com/ft-anfaaz)** | PyTorch, Whisper, Transformers, Captum, scikit-learn | Fused XLM-RoBERTa text, audio-visual, and MentalRoBERTa affect encoders via a neural classifier — **AUROC 0.9867, F1 0.9508**, with Integrated Gradients for token-level explainability |
+| **[Stock Market Analysis & Price Prediction](https://github.com/ft-anfaaz)** | Python, Django, Machine Learning, Web Scraping | Django app scraping live market data, rendering interactive historical trend visualisations, and generating ML-based price predictions |
+| **[Parking Management System](https://github.com/ft-anfaaz)** | Java, Spring Boot, MySQL | Full-stack MVC system for space allocation, customer/vehicle records, bookings, and payments, with auth, availability tracking, and reporting |
 
 </div>
 
