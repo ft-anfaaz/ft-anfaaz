@@ -55,36 +55,47 @@
 
 **Languages**
 
+**Languages**
+ 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,typescript,c,cpp,html,css" />
-&nbsp;
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/XQuery-005A9C?style=flat-square&logo=xml&logoColor=white"/>
 <img src="https://img.shields.io/badge/XML-FF6600?style=flat-square&logo=xml&logoColor=white"/>
 </p>
-
 **Frameworks**
-
+ 
 <p>
-<img src="https://skillicons.dev/icons?i=angular,django,spring,pytorch,bootstrap" />
-&nbsp;
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
 </p>
-
 **Developer Tools**
-
+ 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,mysql,mongodb" />
-&nbsp;
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
 <img src="https://img.shields.io/badge/Altova%20XMLSpy-FF6600?style=flat-square&logo=xml&logoColor=white"/>
 <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apache-netbeanside&logoColor=white"/>
 </p>
-
 **Libraries**
-
+ 
 <p>
 <img src="https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=flat-square&logoColor=black"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
@@ -94,6 +105,7 @@
 <img src="https://img.shields.io/badge/Captum-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI%20Whisper-412991?style=flat-square&logo=openai&logoColor=white"/>
 </p>
+
 
 <br/>
 
