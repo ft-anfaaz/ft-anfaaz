@@ -178,7 +178,7 @@ Insurer for the Aetna platform, supporting monthly production releases.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ft-anfaaz&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
-
+## Contribution Graph
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ft-anfaaz/ft-anfaaz/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ft-anfaaz/ft-anfaaz/output/github-contribution-grid-snake.svg" />
