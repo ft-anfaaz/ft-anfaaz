@@ -1,5 +1,4 @@
 <div align="center">
-
 <!-- ================= HERO ================= -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi,%20I'm%20Anfaz%20Edakkavil%20Aboobakar&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20and%20Data&descAlignY=55&descSize=18&descAlign=50"/>
