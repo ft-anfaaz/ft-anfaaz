@@ -33,9 +33,10 @@
 <tr>
 <td width="60%" valign="top">
 
-- I work as a **Software Engineer**, specialising in **AI & Data**, based in Cork, Ireland (open to relocate).
-- I'm **currently** 🔬 building multimodal transformer systems for mental-health signal detection and 🧩 deepening my skills in explainable AI (XAI) and transformer-based NLP, following the completion of my MSc in Artificial Intelligence at Munster Technological University.
-- I'm **learning** advanced deep learning architectures & multimodal fusion, big data processing pipelines with **PySpark**, and metaheuristic optimisation & decision analytics.
+- **Software Engineer**, specialising in **AI & Data**, based in Cork, Ireland (open to relocate).
+- I hold an **MSc in Artificial Intelligence** from Munster Technological University, where my thesis focused on **multimodal transformer systems for mental-health signal detection** and **explainable AI (XAI)**.
+- I bring a **production engineering background** (XQuery, Java, SQL, enterprise insurance systems) together with hands-on ML expertise in **PyTorch, Hugging Face Transformers, deep learning, and transformer-based NLP**.
+- I'm expanding into **big data processing with PySpark** and **metaheuristic optimisation & decision analytics**.
 - Ask me about **document-generation systems & production insurance platforms**, **transformer models, NLP, and multimodal AI**, **explainable AI (Integrated Gradients, Captum)**, or **query optimisation (XQuery / SQL) at enterprise scale**.
 - Fun fact: I'm also currently working part-time at a pizza restaurant 🍕 — turns out time-management under pressure translates well to shipping code.
 
