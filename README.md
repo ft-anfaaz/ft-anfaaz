@@ -29,30 +29,24 @@
 
 ## 🧠 About Me
 
-I'm a Software Engineer with nearly 4 years of enterprise experience building document-generation
-systems for the insurance industry (XQuery, Java, SQL, XML, MS SQL Server, MongoDB), now backed by
-an **MSc in Artificial Intelligence** — bringing production engineering discipline to ML, deep
-learning, and multimodal AI work.
+<table>
+<tr>
+<td width="60%" valign="top">
 
-```yaml
-role:        Software Engineer | AI & Data
-based_in:    Cork, Ireland (open to relocate)
-currently:
-  - 🎓 MSc in Artificial Intelligence, Munster Technological University — completed
-  - 🔬 Building multimodal transformer systems for mental-health signal detection
-  - 🧩 Deepening skills in explainable AI (XAI) and transformer-based NLP
-learning:
-  - Advanced deep learning architectures & multimodal fusion
-  - Big data processing pipelines (PySpark)
-  - Metaheuristic optimisation & decision analytics
-ask_me_about:
-  - Document-generation systems & production insurance platforms
-  - Transformer models, NLP, and multimodal AI
-  - Explainable AI (Integrated Gradients, Captum)
-  - Query optimisation (XQuery / SQL) at enterprise scale
-fun_fact:    Also currently working part-time at a pizza restaurant — turns out
-             time-management under pressure translates well to shipping code 🍕
-```
+- I work as a **Software Engineer**, specialising in **AI & Data**, based in Cork, Ireland (open to relocate).
+- I have nearly **4 years** of enterprise experience building document-generation systems with **XQuery, Java, SQL, XML, Microsoft SQL Server, and MongoDB**.
+- I hold an **MSc in Artificial Intelligence** from Munster Technological University, specialising in **machine learning, deep learning, NLP, and transformer-based multimodal AI**.
+- I build with **Python, PyTorch, Hugging Face Transformers, scikit-learn, Django, and Spring Boot**.
+- I'm currently deepening my skills in **explainable AI (XAI)**, **multimodal fusion architectures**, and **big data processing with PySpark**.
+- Ask me about **document-generation systems**, **transformer models & multimodal AI**, **explainable AI (Integrated Gradients, Captum)**, or **query optimisation at enterprise scale**.
+- Reach me at **[anfaze98@gmail.com](mailto:anfaze98@gmail.com)**.
+
+</td>
+<td width="40%" valign="top">
+<img src="https://img.notionusercontent.com/ext/https%3A%2F%2Fcdna.artstation.com%2Fp%2Fassets%2Fimages%2Fimages%2F055%2F086%2F844%2Foriginal%2Fgun-sirichote-night-workflow3-animated3-edit.gif%3F1666093203/size/?exp=1786498762&sig=EfjTlloUkPbr97-0_CBpMYD-087yffw6C3W1dx3xiHc&imgBuildSrc=presignImageUrl&id=363b10f9-cc60-8078-873b-d9416bce43e2&table=block&mtd=so" width="100%"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
