@@ -1,20 +1,21 @@
 <div align="center">
-
 <!-- ================= HERO ================= -->
-
-# Hi, I'm Anfaz Edakkavil Aboobakar 👋
-
-### Software Engineer | AI & Data
-
-**Enterprise software engineer turned AI/ML builder — production systems meet transformer-based research.**
-
+ 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi,%20I'm%20Anfaz%20Edakkavil%20Aboobakar&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%26%20Data&descAlignY=55&descSize=18&descAlign=50"/>
 <br/>
-
+<img src="https://komarev.com/ghpvc/?username=ft-anfaaz&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20Data%20Engineering-2ea44f?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BASED%20IN-Cork%2C%20Ireland-orange?style=for-the-badge"/>
+<br/><br/>
+ 
+**Enterprise software engineer turned AI/ML builder — production systems meet transformer-based research.**
+ 
+<br/>
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ft-anfaaz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anfaz-e)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-anfaz.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anfaze98@gmail.com)
-
+ 
 <br/>
 
 <!-- ================= ANIMATED MEDIA ================= -->
