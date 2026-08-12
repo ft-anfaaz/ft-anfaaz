@@ -1,26 +1,31 @@
 <div align="center">
+
 <!-- ================= HERO ================= -->
- 
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi,%20I'm%20Anfaz%20Edakkavil%20Aboobakar&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%26%20Data&descAlignY=55&descSize=18&descAlign=50"/>
+
 <br/>
+
 <img src="https://komarev.com/ghpvc/?username=ft-anfaaz&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FOCUS-AI%20%26%20Data%20Engineering-2ea44f?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/BASED%20IN-Cork%2C%20Ireland-orange?style=for-the-badge"/>
+
 <br/><br/>
- 
+
 **Enterprise software engineer turned AI/ML builder — production systems meet transformer-based research.**
- 
+
 <br/>
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ft-anfaaz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anfaz-e)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-anfaz.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anfaze98@gmail.com)
- 
+
 <br/>
 
 <!-- ================= ANIMATED MEDIA ================= -->
 
-<img src="./Assets/output.gif" alt="Animated header" width="70%"/>
+<img src="./Assets/output.gif" alt="Animated header" width="100%"/>
 
 </div>
 
@@ -34,7 +39,7 @@
 <tr>
 <td width="60%" valign="top">
 
-- **Software Engineer**, specialising in **AI & Data**, based in Cork, Ireland (open to relocate).
+- I work as a **Software Engineer**, specialising in **AI & Data**, based in Cork, Ireland (open to relocate).
 - I hold an **MSc in Artificial Intelligence** from Munster Technological University, where my thesis focused on **multimodal transformer systems for mental-health signal detection** and **explainable AI (XAI)**.
 - I bring a **production engineering background** (XQuery, Java, SQL, enterprise insurance systems) together with hands-on ML expertise in **PyTorch, Hugging Face Transformers, deep learning, and transformer-based NLP**.
 - I'm expanding into **big data processing with PySpark** and **metaheuristic optimisation & decision analytics**.
@@ -43,7 +48,7 @@
 
 </td>
 <td width="40%" valign="top">
-<img src="./Assets/pc.gif" width="100%"/>
+<img src="https://img.notionusercontent.com/ext/https%3A%2F%2Fcdna.artstation.com%2Fp%2Fassets%2Fimages%2Fimages%2F055%2F086%2F844%2Foriginal%2Fgun-sirichote-night-workflow3-animated3-edit.gif%3F1666093203/size/?exp=1786498762&sig=EfjTlloUkPbr97-0_CBpMYD-087yffw6C3W1dx3xiHc&imgBuildSrc=presignImageUrl&id=363b10f9-cc60-8078-873b-d9416bce43e2&table=block&mtd=so" width="100%"/>
 </td>
 </tr>
 </table>
@@ -56,8 +61,6 @@
 
 **Languages**
 
-**Languages**
- 
 <p>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -70,8 +73,9 @@
 <img src="https://img.shields.io/badge/XQuery-005A9C?style=flat-square&logo=xml&logoColor=white"/>
 <img src="https://img.shields.io/badge/XML-FF6600?style=flat-square&logo=xml&logoColor=white"/>
 </p>
+
 **Frameworks**
- 
+
 <p>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
@@ -80,8 +84,9 @@
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
 </p>
+
 **Developer Tools**
- 
+
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -95,8 +100,9 @@
 <img src="https://img.shields.io/badge/Altova%20XMLSpy-FF6600?style=flat-square&logo=xml&logoColor=white"/>
 <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apache-netbeanside&logoColor=white"/>
 </p>
+
 **Libraries**
- 
+
 <p>
 <img src="https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=flat-square&logoColor=black"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
@@ -106,7 +112,6 @@
 <img src="https://img.shields.io/badge/Captum-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI%20Whisper-412991?style=flat-square&logo=openai&logoColor=white"/>
 </p>
-
 
 <br/>
 
@@ -166,11 +171,13 @@ Insurer for the Aetna platform, supporting monthly production releases.
 ## 📊 GitHub Analytics
 
 <div align="center">
+
 <img height="165" src="https://github-readme-stats-theta-bay-11.vercel.app/api?username=ft-anfaaz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-stats-theta-bay-11.vercel.app/api/top-langs/?username=ft-anfaaz&layout=compact&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ft-anfaaz&theme=tokyonight&hide_border=true" />
-</div>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ft-anfaaz&theme=tokyonight&hide_border=true" />
+
+</div>
 
 <br/>
 
