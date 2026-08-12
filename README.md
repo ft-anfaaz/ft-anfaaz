@@ -47,7 +47,7 @@
 - Fun fact: I'm also currently working part-time at a pizza restaurant 🍕 — turns out time-management under pressure translates well to shipping code.
 
 </td>
-<td width="40%" valign="top">
+<td width="40%" valign="bottom">
 <img src="./Assets/pc.gif"  width="100%"/>
 </td>
 </tr>
