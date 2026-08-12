@@ -165,14 +165,9 @@ Insurer for the Aetna platform, supporting monthly production releases.
 ## 📊 GitHub Analytics
 
 <div align="center">
-
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=ft-anfaaz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ft-anfaaz&layout=compact&theme=tokyonight&hide_border=true" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ft-anfaaz&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=ft-anfaaz&theme=tokyonight&no-frame=true&row=1&column=6" />
-
 </div>
 
 <br/>
