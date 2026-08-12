@@ -34,12 +34,10 @@
 <td width="60%" valign="top">
 
 - I work as a **Software Engineer**, specialising in **AI & Data**, based in Cork, Ireland (open to relocate).
-- I have nearly **4 years** of enterprise experience building document-generation systems with **XQuery, Java, SQL, XML, Microsoft SQL Server, and MongoDB**.
-- I hold an **MSc in Artificial Intelligence** from Munster Technological University, specialising in **machine learning, deep learning, NLP, and transformer-based multimodal AI**.
-- I build with **Python, PyTorch, Hugging Face Transformers, scikit-learn, Django, and Spring Boot**.
-- I'm currently deepening my skills in **explainable AI (XAI)**, **multimodal fusion architectures**, and **big data processing with PySpark**.
-- Ask me about **document-generation systems**, **transformer models & multimodal AI**, **explainable AI (Integrated Gradients, Captum)**, or **query optimisation at enterprise scale**.
-- Reach me at **[anfaze98@gmail.com](mailto:anfaze98@gmail.com)**.
+- I'm **currently** 🔬 building multimodal transformer systems for mental-health signal detection and 🧩 deepening my skills in explainable AI (XAI) and transformer-based NLP, following the completion of my MSc in Artificial Intelligence at Munster Technological University.
+- I'm **learning** advanced deep learning architectures & multimodal fusion, big data processing pipelines with **PySpark**, and metaheuristic optimisation & decision analytics.
+- Ask me about **document-generation systems & production insurance platforms**, **transformer models, NLP, and multimodal AI**, **explainable AI (Integrated Gradients, Captum)**, or **query optimisation (XQuery / SQL) at enterprise scale**.
+- Fun fact: I'm also currently working part-time at a pizza restaurant 🍕 — turns out time-management under pressure translates well to shipping code.
 
 </td>
 <td width="40%" valign="top">
