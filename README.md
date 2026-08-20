@@ -25,7 +25,7 @@
 
 <!-- ================= ANIMATED MEDIA ================= -->
 
-<img src="./Assets/output.gif" alt="Animated header" width="100%"/>
+<img src="./Assets/output.gif" alt="Animated header" width="70%"/>
 
 </div>
 
@@ -47,8 +47,8 @@
 - Fun fact: I'm also currently working part-time at a pizza restaurant 🍕 — turns out time-management under pressure translates well to shipping code.
 
 </td>
-<td width="40%" valign="top">
-<img src="https://img.notionusercontent.com/ext/https%3A%2F%2Fcdna.artstation.com%2Fp%2Fassets%2Fimages%2Fimages%2F055%2F086%2F844%2Foriginal%2Fgun-sirichote-night-workflow3-animated3-edit.gif%3F1666093203/size/?exp=1786498762&sig=EfjTlloUkPbr97-0_CBpMYD-087yffw6C3W1dx3xiHc&imgBuildSrc=presignImageUrl&id=363b10f9-cc60-8078-873b-d9416bce43e2&table=block&mtd=so" width="100%"/>
+<td width="40%" valign="middle">
+<img src="./Assets/output.gif" width="100%"/>
 </td>
 </tr>
 </table>
@@ -177,7 +177,6 @@ Insurer for the Aetna platform, supporting monthly production releases.
 <img height="165" src="https://github-readme-stats-theta-bay-11.vercel.app/api?username=ft-anfaaz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-stats-theta-bay-11.vercel.app/api/top-langs/?username=ft-anfaaz&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ft-anfaaz&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
