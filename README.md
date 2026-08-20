@@ -1,4 +1,5 @@
 <div align="center">
+
 <!-- ================= HERO ================= -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi,%20I'm%20Anfaz%20Edakkavil%20Aboobakar&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20and%20Data&descAlignY=55&descSize=18&descAlign=50"/>
@@ -24,7 +25,7 @@
 
 <!-- ================= ANIMATED MEDIA ================= -->
 
-<img src="./Assets/output.gif" alt="Animated header" width="80%"/>
+<img src="./Assets/output.gif" alt="Animated header" width="100%"/>
 
 </div>
 
@@ -46,8 +47,8 @@
 - Fun fact: I'm also currently working part-time at a pizza restaurant 🍕 — turns out time-management under pressure translates well to shipping code.
 
 </td>
-<td width="40%" valign="middle">
-<img src="./Assets/pc.gif"  width="100%"/>
+<td width="40%" valign="top">
+<img src="https://img.notionusercontent.com/ext/https%3A%2F%2Fcdna.artstation.com%2Fp%2Fassets%2Fimages%2Fimages%2F055%2F086%2F844%2Foriginal%2Fgun-sirichote-night-workflow3-animated3-edit.gif%3F1666093203/size/?exp=1786498762&sig=EfjTlloUkPbr97-0_CBpMYD-087yffw6C3W1dx3xiHc&imgBuildSrc=presignImageUrl&id=363b10f9-cc60-8078-873b-d9416bce43e2&table=block&mtd=so" width="100%"/>
 </td>
 </tr>
 </table>
@@ -70,6 +71,7 @@
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/XQuery-005A9C?style=flat-square&logo=xml&logoColor=white"/>
+<img src="https://img.shields.io/badge/XML-FF6600?style=flat-square&logo=xml&logoColor=white"/>
 </p>
 
 **Frameworks**
@@ -88,10 +90,11 @@
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=subversion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/RESTful%20API-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/RESTful%20API-005571?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
