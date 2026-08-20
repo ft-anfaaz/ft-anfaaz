@@ -25,7 +25,7 @@
 
 <!-- ================= ANIMATED MEDIA ================= -->
 
-<img src="./Assets/output.gif" alt="Animated header" width="70%"/>
+<img src="./Assets/output.gif" alt="Animated header" width="80%"/>
 
 </div>
 
@@ -48,7 +48,7 @@
 
 </td>
 <td width="40%" valign="middle">
-<img src="./Assets/output.gif" width="100%"/>
+<img src="./Assets/pc.gif" width="100%"/>
 </td>
 </tr>
 </table>
