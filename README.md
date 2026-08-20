@@ -71,7 +71,6 @@
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/XQuery-005A9C?style=flat-square&logo=xml&logoColor=white"/>
-<img src="https://img.shields.io/badge/XML-FF6600?style=flat-square&logo=xml&logoColor=white"/>
 </p>
 
 **Frameworks**
