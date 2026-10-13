@@ -169,14 +169,6 @@ Insurer for the Aetna platform, supporting monthly production releases.
 
 <br/>
 
-<!-- ================= GITHUB ANALYTICS ================= -->
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats-theta-bay-11.vercel.app/api?username=ft-anfaaz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats-theta-bay-11.vercel.app/api/top-langs/?username=ft-anfaaz&layout=compact&theme=tokyonight&hide_border=true" />
 
 
 <br/><br/>
